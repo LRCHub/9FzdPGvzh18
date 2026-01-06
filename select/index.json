@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Higher [Remix]",
+  "base_artist": "¥ellow Bucks",
+  "createdAt": "2026-01-06T13:52:25.898271Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Higher (remix by Nåid)",
+      "artist": "The Cardigans",
+      "has_synced": false,
+      "path": "select/01_Higher_(remix_by_Nåid)_The_Cardigans.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Higher (Remix)",
+      "artist": "Do or Die, Kanye West & Shawnna",
+      "has_synced": false,
+      "path": "select/02_Higher_(Remix)_Do_or_Die,_Kanye_West_&_Shawnna.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Higher Remix (Ft. Kanye West And Shawnna)",
+      "artist": "Do Or Die",
+      "has_synced": false,
+      "path": "select/03_Higher_Remix_(Ft._Kanye_West_And_Shawnna)_Do_Or_Die.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "People on the High Line (LNTG Can't Get Any Higher Remix)",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/04_People_on_the_High_Line_(LNTG_Can't_Get_Any_Higher_Remix)_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "People on the High Line (LNTG Can’t Get Any Higher remix)",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/05_People_on_the_High_Line_(LNTG_Can’t_Get_Any_Higher_remix)_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Higher (remix) (feat. Kanye West & Shawnna)",
+      "artist": "Do or Die",
+      "has_synced": false,
+      "path": "select/06_Higher_(remix)_(feat._Kanye_West_&_Shawnna)_Do_or_Die.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Gravity (So Much Higher Remix)",
+      "artist": "Chase Atlantic",
+      "has_synced": true,
+      "path": "select/07_Gravity_(So_Much_Higher_Remix)_Chase_Atlantic.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Higher Remix (feat. Kanye West And Shawnna)",
+      "artist": "Do Or Die",
+      "has_synced": false,
+      "path": "select/08_Higher_Remix_(feat._Kanye_West_And_Shawnna)_Do_Or_Die.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Higher (remix)",
+      "artist": "Do or Die feat. Kanye West & Shawnna",
+      "has_synced": false,
+      "path": "select/09_Higher_(remix)_Do_or_Die_feat._Kanye_West_&_Shawnna.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Gravity (So Much Higher Remix)",
+      "artist": "Chase Atlantic",
+      "has_synced": true,
+      "path": "select/10_Gravity_(So_Much_Higher_Remix)_Chase_Atlantic.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "People on the High Line (LNTG Can’t Get Any Higher remix)",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/11_People_on_the_High_Line_(LNTG_Can’t_Get_Any_Higher_remix)_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Gravity (So Much Higher Remix) (So Much Higher Remix)",
+      "artist": "Chase Atlantic",
+      "has_synced": true,
+      "path": "select/12_Gravity_(So_Much_Higher_Remix)_(So_Much_Higher_Remix)_Chase_Atlantic.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Higher (remix)",
+      "artist": "Do or Die feat. Ye & Shawnna",
+      "has_synced": false,
+      "path": "select/13_Higher_(remix)_Do_or_Die_feat._Ye_&_Shawnna.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Higher (remix)",
+      "artist": "Do or Die",
+      "has_synced": false,
+      "path": "select/14_Higher_(remix)_Do_or_Die.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Higher (Remix)",
+      "artist": "Azana",
+      "has_synced": true,
+      "path": "select/15_Higher_(Remix)_Azana.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Higher Remix (Ft. Kanye West A",
+      "artist": "Do Or Die",
+      "has_synced": false,
+      "path": "select/16_Higher_Remix_(Ft._Kanye_West_A_Do_Or_Die.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Higher (Remix)",
+      "artist": "Brian Fresco",
+      "has_synced": false,
+      "path": "select/17_Higher_(Remix)_Brian_Fresco.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Higher Remix (Featuring Kanye West And Shawnna) (Produced by Kanye West)",
+      "artist": "Do Or Die",
+      "has_synced": false,
+      "path": "select/18_Higher_Remix_(Featuring_Kanye_West_And_Shawnna)_(Produced_by_Kanye_West)_Do_Or_Die.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Higher [Remix]",
+      "artist": "Do or Die",
+      "has_synced": false,
+      "path": "select/19_Higher_[Remix]_Do_or_Die.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Make It Higher (Remix)",
+      "artist": "El Batallon",
+      "has_synced": false,
+      "path": "select/20_Make_It_Higher_(Remix)_El_Batallon.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Higher - Remix",
+      "artist": "¥ellow Bucks, YZERR, Tiji Jojo, eyden, Bonbero, SEEDA, Zen Masuta",
+      "has_synced": false,
+      "path": "select/pl_01_Higher_-_Remix_¥ellow_Bucks,_YZERR,_Tiji_Jojo,_eyden,_Bonbero,_SEEDA,_Zen_Masuta.txt"
+    }
+  ]
+}
